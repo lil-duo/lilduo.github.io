@@ -2,7 +2,7 @@
 <details open>
 <summary>Want to ruin the surprise?</summary>
 <br>
-Well, you asked for it!
+[Boston College Carroll School of Management](https://www.bc.edu/content/bc-web/schools/carroll-school/about.html).
 </details>
 
 <details open>
