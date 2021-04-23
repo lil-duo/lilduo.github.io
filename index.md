@@ -1,7 +1,7 @@
 # Lil Duo
 <details open>
 <summary>Want to ruin the surprise?</summary>
-<br>
+
 [Boston College Carroll School of Management](https://www.bc.edu/content/bc-web/schools/carroll-school/about.html).
 </details>
 
