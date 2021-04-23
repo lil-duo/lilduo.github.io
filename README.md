@@ -1,2 +1,2 @@
-# lilduo.github.io
+# lil-duo.github.io
 
