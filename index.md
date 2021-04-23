@@ -7,9 +7,9 @@ Pat Kjornrattanawanich aka **Lil Duo** is an Asian-American Rapper. Pat was born
 [Boston College Carroll School of Management](https://www.bc.edu/content/bc-web/schools/carroll-school/about.html). Aside from sports, Pat enjoys singing, writing songs, and producing musics in his spare time.  
 </details>
 
-# Music
+# My Musics
 
-[Boston College Carroll School of Management](https://www.bc.edu/content/bc-web/schools/carroll-school/about.html).
+[Soundcloud](https://soundcloud.com/lilduo).
 
 ![TeslaCover](TeslaCoverSpotify.JPG)
 
