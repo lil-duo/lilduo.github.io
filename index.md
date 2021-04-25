@@ -11,6 +11,8 @@ Pat Kjornrattanawanich aka **Lil Duo** is an Asian-American Rapper. Pat was born
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/E5Jg4Wm9b7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![IMAGE ALT TEXT](http://www.youtube.com/watch?v=6YbBmqUnoQM)](http://www.youtube.com/watch?v=6YbBmqUnoQM "Video Title")
+
 [[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
 
 [Soundcloud](https://soundcloud.com/lilduo/tesla?in=lilduo/sets/lil-duo)
