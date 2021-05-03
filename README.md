@@ -1,2 +1,2 @@
-# lil-duo.github.io
+# https://lil-duo.github.io/music/
 
