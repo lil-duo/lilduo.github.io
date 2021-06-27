@@ -36,48 +36,6 @@
 <script src="https://libraries.wmgartistservices.com/vwo/smartcode.js" type="text/plain" class="optanon-category-C0002"></script>
 
 	
-<script>
-digitalData.page.pageInfo.pageName = digitalData.content.artist + ":" + "Homepage";
-
-/*** redirection code ***/
-function getQueryString() {
-var assoc = new Array();
-var queryString = unescape(location.search.substring(1));
-var keyValues = queryString.split('&');
-for (var i in keyValues) {
-var key = keyValues[i].split('=');
-assoc[key[0]] = key[1];
-}
-return assoc;
-}
-
-var isHomePage = false;
-var newUrl = './ScavengerHunt';
-var docReferrer = document.referrer;
-if (docReferrer && docReferrer != null && docReferrer.length > 1) {
-newUrl += "?ref=" + docReferrer;
-} else {
-newUrl += "?ref=Typed/Bookmarked"
-}
-
-var urlExpression1 = /.com\/$/;
-var urlExpression2 = /.com$/;
-var urlExpression3 = /.com\?frontpage\=true/;
-var urlExpression4 = /.com\?frontpage\=true\/$/;
-var windowLocation = window.location;
-if (urlExpression1.test(windowLocation.origin) || urlExpression2.test(windowLocation.origin)) {
-if (getQueryString()["frontpage"] != 'true') {
-window.location = newUrl;
-//to be enabled for splash redirect
-}
-isHomePage = true;
-}
-
-if (getQueryString()["frontpage"] == 'true') {
-isHomePage = true;
-}
- </script>
-	
 <body id=homePage class="homePage">
 		
 <ul class="menuWrapper">
